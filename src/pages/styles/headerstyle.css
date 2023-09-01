@@ -1,0 +1,126 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  color: white;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-left: 15px;}
+  
+  .search input {
+    padding: 5px;
+    margin-right: 100px;
+    width: 627px;
+    margin-left: 75px;
+    border-radius: 40px 0 0 40px;
+    height: 40px;
+    background-color: #00000024;
+    border-bottom-color: #00000024;
+    border-right-color: #00000024;
+    border-top-color: #00000024;
+    border-left-color: #00000024;
+    color: #0d0000;
+}
+  
+
+  .ytlogo{
+    height: 30px;
+    margin-right: 185px;
+    margin-top: 15px;
+
+}
+.search{
+    height: 27px;
+    width: 28px;
+    border-radius: 0 40px 40px 0;
+    margin-top: 6px;
+    margin-left: 6px;
+
+
+}
+.search-btn{
+  margin-left: 702px;
+  height: 40px;
+  width: 46px;
+  border-radius: 0 40px 40px 0;
+  background-color: rgb(68 52 52 / 30%);
+  border-bottom-color: rgba(0,0,0,0.14118);
+  border-right-color: transparent;
+  border-left-color: transparent;
+  border-top-color: transparent;
+  margin-top: -40px;
+}
+.plan-div{
+  width: 90px;
+  height: 40px;
+  margin-left: 925px;
+  margin-top: 15px;
+
+}
+.plan-btn{
+  width: 90px;
+  height: 40px;
+  border-radius: 30px;
+  cursor: pointer;
+  border-top-color: #000000d1;
+  border-bottom-color: #000000d1;
+  border-left-color: #080000d1;
+  border-right-color: #000000d1;
+  /* background-color: #d7ccccd1; */
+}
+.plan-btn:hover{
+  background-color: rgb(144, 132, 132);
+}
+.fnt-plan{
+  font-weight: 700;
+  font-size: small;
+}
+.user{
+  margin-left: 65px;
+  background-color: #065fd4;
+  height: 34px;
+  width: 34px;
+  border-radius: 93px;
+  padding-left: 12px;
+  padding-top: 5px;
+}
+.user-div{
+  margin-left: 180px;
+  margin-top: 10px;
+}
+.header {
+  position: sticky;
+  top: -30px;
+  z-index: 1000;
+  background-color: #fff;
+  height: 13vh;
+
+}
+.login-div{
+  height: 40px;
+  margin-left: -218px;
+  margin-top: 15px;
+}
+.login-btn{
+  width: 90px;
+  height: 40px;
+  border-radius: 30px;
+  cursor: pointer;
+  border-top-color: #000000d1;
+  border-bottom-color: #000000d1;
+  border-left-color: #080000d1;
+  border-right-color: #000000d1;
+  /* background-color: #d7ccccd1; */
+}
+.login-btn:hover{
+  background-color: rgb(144, 132, 132);
+
+}
+.sign{
+  font-weight: 700;
+  font-size: small;
+}

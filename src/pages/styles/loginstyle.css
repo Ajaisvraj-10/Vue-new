@@ -1,0 +1,150 @@
+.container1{
+  margin-left: 300px;
+  margin-top: 90px;
+  background-color: rgb(255 255 255);
+  width: 950px;
+  height: 600px;
+}
+.main-head{
+  width: 290px;
+  margin-left: -10px;
+  padding-top: 35px;
+
+}
+.wlcm-bck{
+  color: black;
+  font-size: xx-large;
+  font-weight: 600;
+  margin-left: 75px;
+}
+.frst-input{
+  margin-left: 150px;
+  width: 220px;
+}
+.email{
+  width: 290px;
+  height: 40px;
+  margin-top: 80px;
+  margin-left: -45px;
+  border-radius: 10px;
+  border: 2px solid #020000;
+
+}
+.scnd-input{
+  margin-left: 120px;
+  margin-top: 20px;
+}
+.psswrd{
+  width: 290px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: -15px;
+  border: 2px solid #020000;
+
+}
+.thrd-input{
+  margin-top: 35px;
+}
+.chckbx{
+  margin-left: 110px;
+}
+.scnd-head{
+  margin-left: 25px;
+  margin-top: 185px;
+  color: black;
+}
+.tick-box{
+  margin-top: -210px;
+  margin-left: 100px;
+  font-weight: 600;
+}
+.forgot-psswrd{
+  margin-left: 270px;
+  margin-top: -25px;
+}
+.frst-btn{
+  margin-top: 40px;
+  margin-left: 57px;
+  width: 310px;
+  height: 40px;
+
+}
+.sign-in{
+  margin-left: 50px;
+  width: 290px;
+  height: 40px;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #061b35;
+  color: white;
+  border: 3px solid #020000;
+
+
+}
+
+.google{
+  height: 20px;
+  margin-left: -165px;
+  margin-top: 9px;
+
+}
+.google-sign{
+  color: black;
+  margin-left: 105px;
+  margin-top: 30px;
+  background-color: #ffffff;
+  width: 300px;
+  text-align: center;
+  height: 42px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: 3px solid #020000;
+
+}
+
+.lst-head{
+  margin-top: -30px;
+  font-weight: 700;
+  margin-left: 20px;
+}
+
+.accnt{
+  margin-left: 130px;
+  margin-top: 35px;
+  color: black;
+  font-size: medium;
+  font-weight: 600;
+}
+
+.background{
+  width: 205vh;
+  height: 100vh;
+  margin-left: -190px;
+  background-color: white;
+}
+a{
+  color: #0d2a50;
+}
+.forgot{
+  font-weight: 700;
+}
+.sign-link{
+  font-weight: 700;
+  text-decoration: underline;
+
+}
+::placeholder{
+  color: black;
+  padding-left: 10px;
+}
+.container2{
+  margin-left: 100vh;
+  width: 57vh;
+  margin-top: -78vh;
+  height: 76vh;
+}
+.login-img{
+  height: 576px;
+  width: 480px;
+  border-radius: 15px;
+}

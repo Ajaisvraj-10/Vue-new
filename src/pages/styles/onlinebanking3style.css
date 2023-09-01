@@ -1,0 +1,282 @@
+.main-frame{
+    width: calc(105.33% - 20px);
+    background: #FAFAFA;
+    height: 130vh;
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    justify-content: space-between;
+}
+.header-txt{
+    color: #3F4646;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1px;
+}
+.box1{
+    border-radius: 14px;
+    background: #40CAD7;
+    width: 95%;
+    height: 10%;
+    margin-left: 10px;
+}
+.main-txt{
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
+.scnd-txt{
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    padding-top: 5px;
+}
+.expense-div{
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-flex;
+    height: 19px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.expense-title{
+    color: #3F4646;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+}
+.expense-img{
+    stroke-width: 1.6px;
+    stroke: #C7CFD0;
+}
+.expense-table{
+    border-radius: 14px;
+    background: #FFF;
+    box-shadow: 0px 2px 48px 0px rgba(0, 0, 0, 0.04);
+    height: 20%;
+    margin-top: 20px;
+}
+.expense-text{
+    display: inline-flex;
+    padding-right: 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+    margin-left: 10px;
+
+}
+.graph{
+    stroke-width: 3px;
+    stroke: #40CAD7;
+    margin-top: -126px;
+    margin-left: 30px;
+}
+
+.tbl-txt{
+    color: #3F4646;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+}
+.lines{
+    stroke-width: 1px;
+stroke: #E5EAEA;
+}
+.oval-mark{
+    margin-left: 190px;
+    margin-top: -100px;
+}
+.graph-point{
+    margin-left: 160px;
+    margin-top: -95px;
+}
+.graph-img{
+fill: #0B2455;
+}
+.graph-txt{
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    margin-top: -40px;
+
+}
+.graph-months{
+    display: inline-flex;
+    padding-right: 0px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 25px;
+    margin-top: 110px;
+    margin-left: 40px;
+}
+.grp-month{
+    color: #909394;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+}
+.mycard{
+    color: #3F4646;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    margin-left: 20px;
+    margin-top: 40px;
+
+}
+.cards{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+}
+.card1{
+    margin-left: 10px;
+}
+
+.logo{
+    margin-left: 15px;
+    margin-top: -235px;
+}
+.card-txt{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    margin-left: 10px;
+}
+.card-txt2{
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 70px;
+
+}
+.card-txt3{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1px;
+    margin-top: 45px;
+    margin-left: 25px;
+}
+.card-txt4{
+
+    color: #FFF;
+    text-align: right;
+    font-family: SF Pro Text;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1px;
+    margin-right: 20px;
+    margin-top: -15px;
+}
+
+/*  */
+
+
+
+.logo2{
+    margin-left: 15px;
+    margin-top: -235px;
+}
+.card-txt{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    margin-left: 10px;
+}
+.card-txt5{
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 70px;
+
+}
+.card-txt6{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1px;
+    margin-top: 45px;
+    margin-left: 25px;
+}
+
+
+.menu-box{
+    background: #FFF;
+    box-shadow: 0px 2px 48px 0px rgba(0, 0, 0, 0.12);
+    height: 10vh;
+    display: flex;
+    column-gap: 80px;
+    width: 100%;
+    padding-top: 20px;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+}

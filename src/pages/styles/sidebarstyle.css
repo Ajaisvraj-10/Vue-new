@@ -1,0 +1,117 @@
+.sidebar {
+    width: 250px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+  }
+  
+  .options {
+    padding: 35px;
+    height: 987px;
+    margin-left: 15px;
+    margin-top: 115px;
+  }
+  
+  .option {
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    height: 50px;
+    border-radius: 15px;
+    margin-left: 20px;
+  }
+  
+  .option:hover {
+    background-color: #f1eaea;
+    width: 20vh;
+    padding-left: 6vh;  }
+  .home{
+    height: 20px;
+    margin-left: -32px;
+    margin-top: -50px;
+}
+
+.shorts{
+  height: 25px;
+    margin-left: -35px;
+    margin-top: -50px;
+}
+.subcribtion{
+  height: 20px;
+  margin-left: -35px;
+  margin-top: -50px;
+}
+.library{
+    height: 20px;
+    background-color: white;
+    margin-left: -35px;
+    margin-top: -50px;
+}
+.history{
+  height: 20px;
+  margin-left: -35px;
+  margin-top: -50px;
+}
+.watch-later{
+  height: 20px;
+  margin-left: -35px;
+  margin-top: -50px;
+}
+.liked{
+  height: 20px;
+  margin-left: -35px;
+  margin-top: -50px;
+}
+.trending{
+  height: 20px;
+  margin-left: -35px;
+  margin-top: -50px;
+}
+.shop{
+  height: 20px;
+  margin-left: -35px;
+  margin-top: -50px;
+}
+.music{
+  height: 20px;
+  margin-left: -35px;
+  margin-top: -50px;
+}
+.live{
+  height: 20px;
+  margin-left: -35px;
+  margin-top: -50px;
+
+}
+.home-div{
+  margin-top: -20px;
+}
+.live-div{
+    margin-top: -20px;
+}
+.music-div{
+    margin-top: -20px;
+}
+.shop-div{
+    margin-top: -20px;
+}
+.trend-div{
+    margin-top: -20px;
+}
+.like-div{
+  margin-top: -20px;
+}
+.watch-div{
+  margin-top: -20px;
+}
+.his-div{
+  margin-top: -20px;
+}
+.lib-div{
+  margin-top: -20px;
+}
+.sub-div{
+  margin-top: -20px;
+}
+.short-div{
+  margin-top: -20px;
+}

@@ -1,0 +1,212 @@
+.video-detail{
+  height: 785px;
+  width: 1540px;
+  background-color: #f9f6f6;
+  margin-left: -195px;
+}
+
+
+.vid{
+  margin-left: 35px;
+  width: 985px;
+  height: 520px;
+  left: 0px;
+  top: 0px;
+  margin-top:5px;
+}
+.title-detail{
+  margin-left: 80px;
+  margin-top: -10px;
+  color: rgb(0, 0, 0);
+  word-break: break-word;
+  font-family: "YouTube Sans","Roboto",sans-serif;
+  font-size: 1rem;
+  line-height: 3.8rem;
+  font-weight: 600;
+  font-size: larger;
+}
+.channel-detail{
+  height: 40px;
+  width: 40px;
+  border-radius: 50px;
+  margin-left: 75px;
+}
+.name-detail{
+  color: rgb(0, 0, 0);
+  margin-left: 140px;
+  margin-top: -50px;
+  font-family: inherit;
+  font-size: larger;
+}
+.subscribers{
+  color: rgb(0, 0, 0);
+  margin-left: 135px;
+  font-size: small;
+}
+.subs-btn{
+  margin-left: 513px;
+  border-radius: 16px;
+  height: 40px;
+  width: 100px;
+  border-top-color: rgb(0, 0, 0);
+  border-left-color: rgb(0, 0, 0);
+  border-right-color: rgb(0, 0, 0);
+  border-bottom-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  font-size: initial;
+  font-weight: 600;
+}
+.subs-div{
+  margin-top: -50px;
+  margin-left: -235px;
+}
+.like-details{
+  height: 20px;
+}
+.like-div{
+  height: 35px;
+  width: 125px;
+  margin-left: 580px;
+  margin-top: -40px;
+  background-color: rgba(0, 0, 0, 0.251);
+  padding-left: 15px;
+  border-radius: 35px;
+  padding-top: 2px;
+}
+.dislike-details{
+  height: 20px;
+  padding-left: 50px;
+  margin-top: 2px;
+}
+.line{
+  color: rgb(0, 0, 0);
+  margin-left: 45px;
+  margin-top: -24px;
+}
+.share-details{
+  height: 20px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.share-div{
+  height: 35px;
+  width: 115px;
+  margin-left: 720px;
+  margin-top: -35px;
+  background-color: rgb(0 0 0 / 33%);
+  padding-left: 15px;
+  border-radius: 35px;
+  padding-top: 2px;
+}
+.share{
+  margin-left: 770px;
+  margin-top: -32px;
+  color: rgb(0, 0, 0);
+}
+.download-details{
+  height: 20px;
+  margin-top: 3px;
+}
+.download-div{
+  height: 35px;
+  width: 125px;
+  margin-left: 850px;
+  margin-top: -27px;
+  background-color: rgba(0, 0, 0, 0.251);
+  padding-left: 15px;
+  border-radius: 35px;
+  padding-top: 2px;
+}
+.download{
+  color: rgb(0, 0, 0);
+  margin-left: 25px;
+  margin-top: -28px;
+}
+.more{
+  height: 35px;
+  width: 35px;
+  margin-left: 987px;
+  margin-top: -35px;
+  background-color: rgb(66 48 48 / 25%);
+  padding-left: 15px;
+  border-radius: 50px;
+  padding-top: 2px;
+  color: rgb(0, 0, 0);
+}
+.dots{
+  margin-left: -7px;
+   margin-top: 1px; 
+}
+.container3 {
+  background-color: rgb(255, 255, 255);
+  height: 655px;
+  width: 463px;
+  margin-top: -660px;
+  margin-left: 1060px;
+  display: block;
+  overflow-y: auto;
+  background-color: #f9f6f6;
+  color: white;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+    
+.container3::-webkit-scrollbar {
+  width: 0.5em;
+  background-color: #ffffff;
+}
+
+.container3::-webkit-scrollbar-thumb {
+  background-color: #ffffff;
+}
+
+
+.recomm{
+  height: 115px;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.recomm2{
+  height: 115px;
+  border-radius: 10px;
+  margin-top: 70px;
+}
+.recomm3{
+  height: 115px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.recomm4{
+  height: 115px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.recomm5{
+  height: 115px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.recomm6{
+  height: 115px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.bbc{
+  margin-left: 215px;
+  margin-top: -115px;
+  color: rgb(0, 0, 0);
+  font-size: medium;
+  font-size: initial;
+}
+.chnl{
+  margin-left: 225px;
+  color: #646464;
+  margin-top: 5px;
+}
+
+
+.view-dtl{
+  margin-left: 225px;
+  color: #646464;
+  font-size: small;
+}
