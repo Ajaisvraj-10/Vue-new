@@ -204,12 +204,15 @@
         </div>
     </router-link>
 
+
+    <router-link :to="{ name: 'online-banking4'}">
         <div class="menu-icon4">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="24" viewBox="0 0 22 24" fill="none">
   <path d="M21 23V20.5556C21 17.8555 18.7614 15.6667 16 15.6667H6C3.23858 15.6667 1 17.8555 1 20.5556V23" stroke="#C7CFD0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="11" cy="5.88889" rx="5" ry="4.88889" stroke="#C7CFD0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
         </div>
+      </router-link>
       </div>
     </div>
     </div>

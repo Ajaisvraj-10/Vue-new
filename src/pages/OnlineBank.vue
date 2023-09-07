@@ -228,6 +228,7 @@
         </div>
         </router-link>
 
+        <router-link :to="{ name: 'online-banking3'}">
         <div class="menu-icon3">
           <svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" viewBox="0 0 25 24" fill="none">
   <path d="M19.1064 4.38884V2.7617C19.1068 2.23971 18.894 1.74444 18.5254 1.40967C18.1569 1.0749 17.6706 0.935158 17.1979 1.0282L3.49574 3.73479C2.2234 3.99003 1 5.09607 1 6.51583" stroke="#C7CFD0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
@@ -236,13 +237,16 @@
   <ellipse cx="19.1064" cy="13.6944" rx="0.978723" ry="1.06349" fill="#C7CFD0"/>
 </svg>
         </div>
+      </router-link>
 
+        <router-link :to="{ name: 'online-banking4'}">
         <div class="menu-icon4">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="24" viewBox="0 0 22 24" fill="none">
   <path d="M21 23V20.5556C21 17.8555 18.7614 15.6667 16 15.6667H6C3.23858 15.6667 1 17.8555 1 20.5556V23" stroke="#C7CFD0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="11" cy="5.88889" rx="5" ry="4.88889" stroke="#C7CFD0" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
         </div>
+      </router-link>
       </div>
     </div>
   </div>

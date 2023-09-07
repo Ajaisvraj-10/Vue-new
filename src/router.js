@@ -10,6 +10,8 @@ const Statistic = { template: '<div>Statistic</div>' };
 const OnlineBank = { template: '<div>OnlineBank</div>' };
 const OnlineBank2 = { template: '<div>OnlineBank2</div>' };
 const OnlineBank3 = { template: '<div>OnlineBank3</div>' };
+const OnlineBank4 = { template: '<div>OnlineBank4</div>' };
+const OnlineBank5 = { template: '<div>OnlineBank5</div>' };
 
 
 
@@ -24,6 +26,8 @@ const routes = [
   { path: '/online-banking', component: OnlineBank, name:'online-banking' },
   { path: '/online-banking2', component: OnlineBank2, name:'online-banking2' },
   { path: '/online-banking3', component: OnlineBank3, name:'online-banking3' },
+  { path: '/online-banking4', component: OnlineBank4, name:'online-banking4' },
+  { path: '/online-banking5', component: OnlineBank5, name:'online-banking5' },
 ];
 
 

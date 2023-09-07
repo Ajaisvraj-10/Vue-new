@@ -13,6 +13,8 @@ import Statistic from './pages/Statistic.vue'
 import OnlineBank from './pages/OnlineBank.vue'
 import OnlineBank2 from './pages/OnlineBank2.vue'
 import OnlineBank3 from './pages/OnlineBank3.vue'
+import OnlineBank4 from './pages/OnlineBank4.vue'
+import OnlineBank5 from './pages/OnlineBank5.vue'
 import './pages/styles/global.css'; 
 
 const routes = [
@@ -25,6 +27,8 @@ const routes = [
   { path: '/online-banking', component: OnlineBank, name:'online-banking' },
   { path: '/online-banking2', component: OnlineBank2, name:'online-banking2' },
   { path: '/online-banking3', component: OnlineBank3, name:'online-banking3' },
+  { path: '/online-banking4', component: OnlineBank4, name:'online-banking4' },
+  { path: '/online-banking5', component: OnlineBank5, name:'online-banking5' },
 ];
 
 const router = createRouter({
